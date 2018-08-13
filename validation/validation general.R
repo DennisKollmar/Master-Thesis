@@ -72,6 +72,4 @@ validation_performance <- tibble(Model,
                       AUC)
 validation_performance %>% arrange(desc(F1))
 
-?predict()
-
 
