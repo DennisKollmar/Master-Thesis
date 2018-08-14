@@ -1,0 +1,1 @@
+Links to image folder will be created here (to avoid unnecessary redundancies)
